@@ -1,4 +1,53 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
-img {
-    width: 5%;
+
+/*About*/
+
+.img {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
 }
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.wrapper {
+    color: blue;
+    font-size: 12px;
+}
+
+
+/*.feature-image {
+    max-width: 100%;
+    padding: 40px;
+    height: auto;
+}*/
+
+
+/*contact.html*/
+
+.form-name {
+    padding: 15px;
+    color: red;
+}
+
+.form-email {
+    padding: 15px;
+}
+
+.form-message {
+    padding: 15px;
+    width: 540px;
+}
+
+.btn {
+    margin: 15px;
+}
+
+
+/*portofolio*/
+
+
+/*footer*/
